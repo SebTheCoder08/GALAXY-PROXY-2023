@@ -18,7 +18,7 @@
 
 ::-webkit-input-placeholder {
   text-align: center;
-  font-family: "sans-serif";
+  font-family: "Roboto";
 }
 
 :-moz-placeholder {
@@ -109,7 +109,7 @@
 a {
   color: var(--navbar-link-color);
   text-decoration: none !important;
-  font-family: "sans-serif";
+  font-family: "Roboto";
 }
 
 a:hover {
